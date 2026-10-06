@@ -13,3 +13,6 @@ This project has always been one at the back of my mind, a curiosity to see how 
 ## Simulation
 
 I use OpenRocket to simulate all my model rocket designs, a software application that allows users to simulate rocket designs by assigning materials and roughness to components and selecting a rocket motor to provide all necessary launch data and the expected apogee. It is very useful for deeming a rocket's capability and show roughly how it will fly! My simulation is attached below;
+
+<img width="1795" height="418" alt="image" src="https://github.com/user-attachments/assets/8e6ec2eb-6b3a-47ea-a65a-b083ee820747" />
+

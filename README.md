@@ -16,3 +16,17 @@ I use OpenRocket to simulate all my model rocket designs, a software application
 
 <img width="1795" height="418" alt="image" src="https://github.com/user-attachments/assets/8e6ec2eb-6b3a-47ea-a65a-b083ee820747" />
 
+## Parts
+
+### - Nosecone 
+
+A parabolic series nosecone that provides an aerodynamic shape for the rocket to slice through the air with minimal resistance and also provide stability to the rocket. The nosecone has a hollow interior to store an altimeter and gather data. 
+
+### - Body tube
+
+A BT-20 sized 28cm long body tube made from cardboard, providing a lightweight and sturdy frame for the rocket. The end of the tube will hold the engine, with wadding above, followed by a streamer/Parachute and a shock cord.
+
+### - Fins
+
+Sturdy Balsa wood fins that provide stability to the rocket and with minimal air resistance, thanks to an aerofoil fin shape and the porous nature of balsa wood.
+

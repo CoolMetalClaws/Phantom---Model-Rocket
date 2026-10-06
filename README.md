@@ -8,4 +8,8 @@ A high soaring model rocket pushing the boundaries of a C sized motor, with a we
 
 ## Why i built this!
 
-This project has always been one at the back of my mind, a curiosity to see how far can i push a C-Size motor, and how can i improve the design of my old rocket and retain only the good features. After a short break from rocketry as a hobby, i am back with another design that i hope can outperform all C-size model rockets! (Pretty unrealistic but the design is promising.)
+This project has always been one at the back of my mind, a curiosity to see how far can i push a C-Size motor, and how can i improve the design of my old rocket and retain only the good features. After a short break from rocketry as a hobby, i am back with another design that i hope can outperform all C-size model rockets! (Pretty unrealistic but the design is promising!)
+
+## Simulation
+
+I use OpenRocket to simulate all my model rocket designs, a software application that allows users to simulate rocket designs by assigning materials and roughness to components and selecting a rocket motor to provide all necessary launch data and the expected apogee. It is very useful for deeming a rocket's capability and show roughly how it will fly! My simulation is attached below;

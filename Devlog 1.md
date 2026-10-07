@@ -8,3 +8,4 @@ As with all my other projects, i began this project by sketching out the rocket 
 
 ## Simulation
 
+I use an open source app called open rocket to simulate my rockets, which is very helpful in providing theorized flight data and an apogee to determine whether a rocket is good!

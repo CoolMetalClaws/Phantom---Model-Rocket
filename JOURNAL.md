@@ -7,7 +7,7 @@ total_time: "2h 12m"
 ---
 
 
-# October 8, 2o26: New Project!
+# October 8, 2026: New Project!
 
 Phantom is my new project, a high soaring model rocket that stretches the upper bounds of a C-size motor at Mach 0.5! I made this rocket to improve upon my previous design and see how high a rocket can fly on a C6-5 motor.
 

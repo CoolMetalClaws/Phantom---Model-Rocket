@@ -2,7 +2,7 @@
 title: "Phantom - Model Rocket"
 github: "Phantom---Model-Rocket"
 description: "A high soaring C size model rocket flying at speeds up to Mach 0.5 and altitudes of 490m!"
-created_at: "2026-03-20"
+created_at: "2026-10-06"
 total_time: "2h 12m"
 ---
 

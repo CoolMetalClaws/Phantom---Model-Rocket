@@ -7,7 +7,7 @@ total_time: "2h 12m"
 ---
 
 
-# Log 1: New Project!
+# October 8, 2o26: New Project!
 
 Phantom is my new project, a high soaring model rocket that stretches the upper bounds of a C-size motor at Mach 0.5! I made this rocket to improve upon my previous design and see how high a rocket can fly on a C6-5 motor.
 
@@ -34,7 +34,7 @@ Thank you for reading this if you made it this far, and hope you like the projec
 
 
 
-# Log 2: Finished CAD
+# October 10, 2026: Finished CAD
 
 All CAD is complete for the project, including extra components that i will not be 3D printing. I have designed the secondary fins to add more stability, and because they look really cool, and added an aerofoil cross section to all the fins. The rocket will be spray painted for a smoother surface finish, and will have its name painted on the side. I have also CADed a stencil for the name, which can be 3d printed and attached when spray painting. 
 

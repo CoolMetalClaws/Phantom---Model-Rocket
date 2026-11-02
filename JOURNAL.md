@@ -1,3 +1,11 @@
+title: "Phantom - Model Rocket"
+github: "Phantom---Model-Rocket"
+description: "A high soaring C size model rocket flying at speeds up to Mach 0.5 and altitudes of 490m!"
+created_at: "2026-03-20"
+total_time: "2h 12m"
+
+
+
 # Log 1: New Project!
 
 Phantom is my new project, a high soaring model rocket that stretches the upper bounds of a C-size motor at Mach 0.5! I made this rocket to improve upon my previous design and see how high a rocket can fly on a C6-5 motor.
